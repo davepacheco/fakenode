@@ -1,0 +1,4 @@
+This repo is a fake "node" binary used for testing the node DTrace provider.
+See node issue 2667 for details.
+
+The structure and Makefile for this repo is based on davepacheco/mod_usdt.
